@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Isadora-Lopes-santos GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Isadora-Lopes-santos&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/Isadora-Lopes-santos/github-readme-stats#gh-dark-mode-only)
+[![Isadora-Lopes-santos GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Isadora-Lopes-santos&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Isadora-Lopes-santos/github-readme-stats#gh-light-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isadora-Lopes-santos&layout=compact)
