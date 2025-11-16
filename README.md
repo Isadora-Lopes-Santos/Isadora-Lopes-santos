@@ -5,6 +5,7 @@
   Gosto de enfrentar novos desafios e foi isso que me aproximou do TI 👾 <br/>
   <br/> ✨ Espero construir muitos projetos incríveis e evoluir cada vez mais!✨
 </p>
+
 <br/>
 
 <p align="center">
@@ -12,5 +13,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isadora-Lopes-santos&layout=compact&locale=pt-BR&show_icons=true&hide_border=false&hide_title=true&langs_count=6&theme=dracula" />
 </p>
 
-# 🐍 Contribuições
-![Snake animation](https://raw.githubusercontent.com/Isadora-Lopes-Santos/Isadora-Lopes-santos/output/output/github-contribution-grid-snake.svg)
+<br/>
+
+## 🐍 Cobrinha das Contribuições
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Isadora-Lopes-Santos/Isadora-Lopes-santos/output/github-contribution-grid-snake-dark.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Isadora-Lopes-Santos/Isadora-Lopes-santos/output/github-contribution-grid-snake.svg">
+</picture>
