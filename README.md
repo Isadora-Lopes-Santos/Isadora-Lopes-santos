@@ -1,19 +1,13 @@
-## Hi there 👋
+## Olá 👋 Chega mais!
 
-<!--
-**Isadora-Lopes-Santos/Isadora-Lopes-santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p> Eu sou a Isadora, tenho 18 anos e estou sempre buscando aprender e expandir meus conhecimentos. <br/>
+  <br/>🚀 Atualmente curso um bootcamp de desenvolvimento full stack em JavaScript e estou dando meus primeiros passos no mundo da programação.
+  Gosto de enfrentar novos desafios e foi isso que me aproximou do TI 👾 <br/>
+  <br/> ✨ Espero construir muitos projetos incríveis e evoluir cada vez mais!✨
+</p>
+<br/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Isadora-Lopes-santos GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Isadora-Lopes-santos&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/Isadora-Lopes-santos/github-readme-stats#gh-dark-mode-only)
-[![Isadora-Lopes-santos GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Isadora-Lopes-santos&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Isadora-Lopes-santos/github-readme-stats#gh-light-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isadora-Lopes-santos&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Isadora-Lopes-santos&show_icons=true&locale=pt-BR&hide_border=false&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isadora-Lopes-santos&layout=compact&locale=pt-BR&show_icons=true&hide_border=false&hide_title=true&langs_count=6&theme=dracula" />
+</p>
