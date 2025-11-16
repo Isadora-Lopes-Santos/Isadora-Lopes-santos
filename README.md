@@ -11,3 +11,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Isadora-Lopes-santos&show_icons=true&locale=pt-BR&hide_border=false&theme=dracula" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isadora-Lopes-santos&layout=compact&locale=pt-BR&show_icons=true&hide_border=false&hide_title=true&langs_count=6&theme=dracula" />
 </p>
+
+# 🐍 Contribuições
+![Snake animation](https://raw.githubusercontent.com/Isadora-Lopes-Santos/Isadora-Lopes-santos/output/output/github-contribution-grid-snake.svg)
